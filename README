@@ -1,0 +1,24 @@
+=== bing_daily_pics
+
+I wanted a place to share my applescripts.
+
+
+=== Scripts
+
+toggle_iphoto_sharing.scpt
+------------------------------
+	- This will use gui scripting to toggle the sharing of your iphoto library
+
+	- example - osascript toggle_iphoto_sharing.scpt "disable" "no"
+			  - the first param is the status to set sharing to - disable or enable
+			  - the second param is whether or not to start iPhoto to make the change
+			
+ 	Note: iPhoto must be running for this script to change anything
+
+enable_iphoto_sharing.scpt
+-------------------------------
+	- a wrapper script to help using toggle_iphoto_sharing.scpt with controlplane (http://www.controlplaneapp.com/)
+	
+disable_iphoto_sharing.scpt
+--------------------------------
+	- same as enable script above
