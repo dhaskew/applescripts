@@ -9,9 +9,9 @@ toggle_iphoto_sharing.scpt
 ------------------------------
 	- This will use gui scripting to toggle the sharing of your iphoto library
 
-	- example - osascript toggle_iphoto_sharing.scpt "disable" "no"
-			  - the first param is the status to set sharing to - disable or enable
-			  - the second param is whether or not to start iPhoto to make the change
+	- osascript toggle_iphoto_sharing.scpt "disable" "no"
+		- the first param is the status to set sharing to - disable or enable
+	    - the second param is whether or not to start iPhoto to make the change
 			
  	Note: iPhoto must be running for this script to change anything
 
