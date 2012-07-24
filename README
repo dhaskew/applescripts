@@ -2,23 +2,22 @@
 
 I wanted a place to share my applescripts.
 
-
 === Scripts
 
-toggle_iphoto_sharing.scpt
+toggle_iphoto_sharing.applescript
 ------------------------------
-	- This will use gui scripting to toggle the sharing of your iphoto library
+ -This will use gui scripting to toggle the sharing of your iphoto library
 
-	- osascript toggle_iphoto_sharing.scpt "disable" "no"
-		- the first param is the status to set sharing to - disable or enable
-	    - the second param is whether or not to start iPhoto to make the change
-			
- 	Note: iPhoto must be running for this script to change anything
+  - osascript toggle_iphoto_sharing.applescript "disable" "no"
+    - the first param is the status to set sharing to - disable or enable
+    - the second param is whether or not to start iPhoto to make the change
 
-enable_iphoto_sharing.scpt
+Note: iPhoto must be running for this script to change anything
+
+enable_iphoto_sharing.applescript
 -------------------------------
-	- a wrapper script to help using toggle_iphoto_sharing.scpt with controlplane (http://www.controlplaneapp.com/)
-	
-disable_iphoto_sharing.scpt
+- a wrapper script to help using toggle_iphoto_sharing.applescript with controlplane (http://www.controlplaneapp.com/)
+
+disable_iphoto_sharing.applescript
 --------------------------------
-	- same as enable script above
+- same as enable script above
