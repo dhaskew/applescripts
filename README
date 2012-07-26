@@ -21,3 +21,7 @@ enable_iphoto_sharing.applescript
 disable_iphoto_sharing.applescript
 --------------------------------
 - same as enable script above
+
+switch_browsers.applescript
+--------------------------------
+- This script will take the current Chrome page, and load in Safari.
