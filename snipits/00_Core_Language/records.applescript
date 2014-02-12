@@ -1,0 +1,3 @@
+-- create a record -- a list of name:value pairs
+-- set Rec to {who:"David Askew", town:"Waynesboro GA"}
+-- Rec

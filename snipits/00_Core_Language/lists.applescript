@@ -1,0 +1,3 @@
+-- create a list
+-- set list_test to {"1", "2", "three"}
+-- list_test

@@ -1,0 +1,4 @@
+-- count the chars in a string, or if you prefer, print its length.  they are the same
+-- count "foobar"
+-- or
+--length of "foo"

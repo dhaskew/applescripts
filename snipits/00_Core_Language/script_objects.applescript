@@ -1,0 +1,11 @@
+-- script definition
+--script scr
+--	property foo : "bar"
+--	display dialog "script test"
+--	foo
+--end script
+-- run a script definition
+--run scr
+
+-- set a property of a script
+--set foo of scr to "foobar"
